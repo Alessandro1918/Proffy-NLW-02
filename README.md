@@ -71,7 +71,7 @@ $ git clone https://github.com/Alessandro1918/Proffy-NLW-02
 - 📊  API
 
 ```sh
-  $ cd backend
+  $ cd server
   
   # Install dependencies
   $ yarn # or npm install
